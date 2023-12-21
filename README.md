@@ -23,3 +23,6 @@ O site usa HTML, CSS e JavaScript para exibir o cartão de NFT, que contém info
 
 ## Instalação
 Para instalar este projeto, você pode clonar ou baixar este repositório para o seu computador. Você também pode acessar o site diretamente pelo link https://aureliandro-oliveira.github.io/nft-card/.
+
+ ## Agradecimentos
+ Dev Quest - Dev em dobro que me proporcionou a aprender mais com este projeto. 
